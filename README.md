@@ -41,7 +41,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />lucafc-42
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lucafc-42/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/lucafrrc/count.svg?"  />
 </div>
 
 ###
