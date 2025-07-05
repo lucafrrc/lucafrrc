@@ -42,13 +42,24 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="52" height="40" alt="c logo"  />
   </a>
+  <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" alt="python logo"  />
+  </a>
+  <a href="https://www.typescriptlang.org/" terget="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" alt="typescript logo"  />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
+  </a>
+  <a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="linux logo"  />
+  </a>
+  <a href="https://code.visualstudio.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="40" alt="git logo"  />
+  </a>
 </div>
 
 ###
